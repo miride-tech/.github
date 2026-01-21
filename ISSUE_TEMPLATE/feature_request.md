@@ -1,28 +1,28 @@
 ---
-name: ✨ Feature Request
+name:Feature Request
 about: Suggest an idea for this project
 title: '[FEATURE] '
 labels: ['enhancement', 'triage']
 assignees: ''
 ---
 
-## ✨ Feature Description
+## Feature Description
 
 <!-- A clear and concise description of the feature you'd like -->
 
-## 🎯 Problem Statement
+## Problem Statement
 
 <!-- What problem does this feature solve? -->
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 <!-- Describe the solution you'd like -->
 
-## 🔄 Alternatives Considered
+## Alternatives Considered
 
 <!-- Describe any alternative solutions you've considered -->
 
-## 📋 Acceptance Criteria
+## Acceptance Criteria
 
 <!-- List the criteria that must be met for this feature to be considered complete -->
 
@@ -30,11 +30,11 @@ assignees: ''
 - [ ] Criterion 2
 - [ ] Criterion 3
 
-## 🎨 Mockups/Designs
+## Mockups/Designs
 
 <!-- If applicable, add mockups or designs -->
 
-## 📊 Impact
+## Impact
 
 <!-- Describe the expected impact -->
 
@@ -42,10 +42,10 @@ assignees: ''
 - **Business value:** [e.g., high, medium, low]
 - **Technical complexity:** [e.g., high, medium, low]
 
-## 🔗 Related Issues/PRs
+## Related Issues/PRs
 
 <!-- Link any related issues or PRs -->
 
-## 📋 Additional Context
+## Additional Context
 
 <!-- Add any other context about the feature request here -->
