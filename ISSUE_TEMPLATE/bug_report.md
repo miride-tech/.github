@@ -1,12 +1,12 @@
 ---
-name: 🐛 Bug Report
+name: Bug Report
 about: Report a bug to help us improve
 title: '[BUG] '
 labels: ['bug', 'triage']
 assignees: ''
 ---
 
-## 🐛 Bug Description
+## Bug Description
 
 <!-- A clear and concise description of what the bug is -->
 
@@ -25,11 +25,11 @@ assignees: ''
 
 <!-- A clear description of what actually happened -->
 
-## 📸 Screenshots
+## Screenshots
 
 <!-- If applicable, add screenshots to help explain the problem -->
 
-## 🌍 Environment
+## Environment
 
 - **Service:** [e.g., user-service, ride-service]
 - **Environment:** [staging/production]
@@ -37,11 +37,11 @@ assignees: ''
 - **Device:** [e.g., iPhone 12, Android Pixel 6, Web Chrome]
 - **OS:** [e.g., iOS 15.1, Android 12, Windows 11]
 
-## 📋 Additional Context
+## Additional Context
 
 <!-- Add any other context about the problem here -->
 
-## 📜 Logs
+## Logs
 
 <!-- If applicable, add relevant log output -->
 
@@ -49,6 +49,6 @@ assignees: ''
 Paste logs here
 ```
 
-## 🔍 Possible Solution
+## Possible Solution
 
 <!-- Optional: If you have ideas on how to fix the bug -->
