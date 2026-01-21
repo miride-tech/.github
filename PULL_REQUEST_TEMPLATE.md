@@ -1,12 +1,12 @@
-## 📝 Description
+## Description
 
 <!-- Provide a brief description of the changes -->
 
-## 🔗 Related Issues
+## Related Issues
 
 <!-- Link any related issues: Fixes #123, Relates to #456 -->
 
-## 🧪 Type of Change
+## Type of Change
 
 <!-- Check all that apply -->
 
@@ -18,7 +18,7 @@
 - [ ] ♻️ Refactoring (no functional changes)
 - [ ] 🧪 Test update
 
-## 🧪 Testing
+## Testing
 
 <!-- Describe the tests you ran -->
 
@@ -27,11 +27,11 @@
 - [ ] Manual testing completed
 - [ ] New tests added for changes
 
-## 📸 Screenshots (if applicable)
+## Screenshots (if applicable)
 
 <!-- Add screenshots for UI changes -->
 
-## 📋 Checklist
+## Checklist
 
 <!-- Check all that apply -->
 
@@ -42,7 +42,7 @@
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published
 
-## 🚀 Deployment Notes
+## Deployment Notes
 
 <!-- Any special deployment considerations -->
 
@@ -51,7 +51,7 @@
 - [ ] Feature flag needed
 - [ ] Third-party service configuration needed
 
-## 📊 Performance Impact
+## Performance Impact
 
 <!-- Describe any performance implications -->
 
@@ -59,7 +59,7 @@
 - [ ] Performance improvement
 - [ ] Potential performance regression (explain below)
 
-## 🔒 Security Considerations
+## Security Considerations
 
 <!-- Note any security implications -->
 
