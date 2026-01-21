@@ -10,13 +10,13 @@
 
 <!-- Check all that apply -->
 
-- [ ] 🐛 Bug fix (non-breaking change fixing an issue)
-- [ ] ✨ New feature (non-breaking change adding functionality)
-- [ ] 💥 Breaking change (fix or feature causing existing functionality to break)
-- [ ] 📚 Documentation update
-- [ ] 🔧 Configuration change
-- [ ] ♻️ Refactoring (no functional changes)
-- [ ] 🧪 Test update
+- [ ] Bug fix (non-breaking change fixing an issue)
+- [ ] New feature (non-breaking change adding functionality)
+- [ ] Breaking change (fix or feature causing existing functionality to break)
+- [ ] Documentation update
+- [ ] Configuration change
+- [ ] Refactoring (no functional changes)
+- [ ] Test update
 
 ## Testing
 
